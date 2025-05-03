@@ -5,7 +5,7 @@ using UnityEngine;
 namespace LostRuinsHealthCheckpoint
 {
     [HarmonyPatch]
-    class PlayerInventoryPatch
+    class RestorePlayerHPMPCheckpoint
     {
 
         [HarmonyPostfix]
