@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="StartPatch.cs" />
-    <Compile Include="PlayerInventoryPatch.cs" />
+    <Compile Include="RestorePlayerHPMPCheckpoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
