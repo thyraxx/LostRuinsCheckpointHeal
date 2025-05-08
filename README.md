@@ -1,8 +1,8 @@
 # LostRuinsMod
-This is a mod which adds a new game mode, New Game+. This unlocks all items for the specific difficulty.
-~~More things might come.~~ I'm not planning working on this anymore, don't expect anything else to be added.
+This is a mod which adds a restoring HP and MP when touching a checkpoint. Currently the player isn't noditied except for the fact its HP and MP is restored.
+If there is demand I could still enable the 'effects' you see when an untouched checkpoint is touched. IIRC you see green particles as such.
 
-**Warning**: Playing this mod might unlock achievements, like finding all weapons.
+**Warning**: Playing this mod might unlock achievements, or have other side effects which aren't accountable for.
 
 ## Prerequisite
 - BepInEx v5.x.x x86
