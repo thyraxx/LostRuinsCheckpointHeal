@@ -15,5 +15,3 @@ Download and drop the dll you can download [here](https://github.com/thyraxx/Los
 If the **plugins** folder doesn't exist yet, you could start the game first with only BepInEx, it should create it. 
 **OR**
 Immediately create the folder yourself and place the mod into the plugins folder, should also work.
-
-Start the game and the NewGame+ option should be on the title screen.
