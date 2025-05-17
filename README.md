@@ -1,6 +1,6 @@
 # LostRuinsMod
 This is a mod which adds a restoring HP and MP when touching a checkpoint. Currently the player isn't notified except for the fact its HP and MP is restored.
-If there is demand I could still enable the 'effects' you see when an untouched checkpoint is touched. IIRC you see green particles as such.
+If there is demand I could still enable the 'effects' you see when an checkpoint is touched. IIRC you see green particles as such.
 
 **Warning**: Playing this mod might unlock achievements, or have other side effects which aren't accountable for.
 
